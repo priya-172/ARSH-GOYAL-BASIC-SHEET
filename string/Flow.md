@@ -1,4 +1,5 @@
 Questions cover
+
 1	Given String is Palindrome or not
 2	Find Common Characters
 3	Remove character
