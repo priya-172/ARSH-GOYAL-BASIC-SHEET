@@ -1,3 +1,12 @@
+// Example 1:
+
+// Input: words = ["bella","label","roller"]
+// Output: ["e","l","l"]
+// Example 2:
+
+// Input: words = ["cool","lock","cook"]
+// Output: ["c","o"]
+ 
 class Solution {
 public:
     vector<string> commonChars(vector<string>& words) {
