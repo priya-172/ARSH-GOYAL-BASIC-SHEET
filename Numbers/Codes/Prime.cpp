@@ -2,7 +2,7 @@
 #include <vector>
 
 using namespace std;
-
+//O(n * log(log(n))).
 class Solution {
 public:
     int countPrimes(int n) {
@@ -47,7 +47,7 @@ int main() {
 #include <vector>
 
 using namespace std;
-
+//o(sqrt(n))
 bool isPrime(int num) {
     if (num <= 1)
         return false;

@@ -50,7 +50,7 @@ void printList(ListNode* head) {
     }
     std::cout << "nullptr" << std::endl;
 }
-
+ 
 int main() {
     // Create a linked list based on user input
     ListNode* head = createLinkedList();
